@@ -8,6 +8,10 @@ h1 {
   padding-top: 10px;
 }
 
+h3 {
+  padding-left: 10px;
+  padding-top: 2px;
+}
 body {
   background-color: rgb(173, 216, 230);
 }
@@ -21,7 +25,7 @@ body {
   background-color: white;
   border-radius: 20px;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 12px;
 }
 
 .box-upper {
